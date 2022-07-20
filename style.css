@@ -5,6 +5,9 @@ body {
     margin: 0;
 }
 
+/*************
+ container
+*************/
 .container {
     width: 1150px;
     height: 540px;
@@ -110,8 +113,6 @@ a .blog-color {
 }
 
 .blog-item {
-
-
 
     width: 280px;
     height: 320px;

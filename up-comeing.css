@@ -1,0 +1,130 @@
+body {
+    font-family: 'Inter', sans-serif;
+
+    padding: 0;
+    margin: 0;
+}
+
+/*************
+ container
+*************/
+.container {
+    width: 1150px;
+    height: 540px;
+    margin: auto;
+    background-color: #161616;
+    border-radius: 15px;
+}
+
+.top-section {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.top-bar {
+    width: 450px;
+    margin-left: 64px;
+
+}
+
+.main-title {
+    color: white;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+.top-bar-title {
+    color: #bfbfbf;
+    line-height: 21px;
+    margin-bottom: 40px;
+
+}
+
+.my-btn {
+    text-decoration: none;
+    color: white;
+    background: #dd4444;
+    padding: 14px 31px;
+    font-size: 20px;
+    border-radius: 5px;
+
+}
+
+.top-right-banner img {
+    width: 513px;
+    margin-left: 40px;
+}
+
+/**************
+ container-match
+**************/
+.container-match {
+    display: flex;
+}
+
+.all-match {
+    width: 260px;
+    height: 270px;
+    background-color: #161616;
+    margin-top: 100px;
+    margin-left: 135px;
+    display: grid;
+    border-radius: 9px;
+}
+
+.all-link-btn {
+    margin-top: 20px;
+}
+
+.click-btn {
+    text-align: center;
+    background: #f0ecec;
+    width: 153px;
+    align-items: center;
+    margin: 12px auto;
+    padding: 20px 28px;
+    border-radius: 10px;
+}
+
+.click-btn a {
+    text-decoration: none;
+    color: black;
+
+}
+
+a .blog-color {
+    color: white;
+}
+
+#blog-color {
+    background: #dd0000;
+
+}
+
+.sports-blog {
+    margin: 100px 15px;
+    width: 257px;
+    border: 1px solid #ddd;
+    padding: 20px;
+    height: 175px;
+    text-align: center;
+    border-radius: 6px;
+}
+
+.country-flag {
+    margin-top: 16px;
+}
+
+.vs {}
+
+.live-match h3 {
+    font-size: 19px;
+}
+
+.live-match p {
+    color: #5e5858;
+    font-size: 14px;
+}
